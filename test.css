@@ -76,7 +76,7 @@ button{
 }
 @media screen and (max-width: 768px) {
     .box{
-        width:90%;
+         width:calc(100% - 2 * 1em);
         margin: 1em;
        
    }
